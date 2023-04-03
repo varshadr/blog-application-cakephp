@@ -1,0 +1,1 @@
+https://bbbootstrap.com/snippets/embed/bootstrap-5-profile-card-animation-74461039
